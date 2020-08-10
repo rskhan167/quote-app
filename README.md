@@ -1,5 +1,5 @@
 # quote-app
-
+  Add upto 10 quotes and can delete it with one click.
 ## Project setup
 ```
 npm install
